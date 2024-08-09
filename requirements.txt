@@ -1,0 +1,4 @@
+Flask==2.3.2
+spacy==3.5.1
+pandas==1.5.3
+pdfplumber==0.5.28
